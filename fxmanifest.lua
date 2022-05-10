@@ -1,4 +1,4 @@
-fx_version 'cerulean'
+fx_version 'adamant'
 game 'gta5'
 
 author 'Desconocido'
@@ -11,6 +11,10 @@ files {
 
 client {
     'client/*.lua',
+}
+
+shared_scripts {
+	'client/*.lua'
 }
 
 data_file 'CARCOLS_FILE' 'data/carcols.meta'
