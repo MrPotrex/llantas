@@ -9,5 +9,9 @@ files {
     'data/*.meta',
 }
 
+client {
+    'client/*.lua',
+}
+
 data_file 'CARCOLS_FILE' 'data/carcols.meta'
 data_file 'CONTENT_UNLOCKING_META_FILE' 'data/ganjarimscontentunlocks.meta'
