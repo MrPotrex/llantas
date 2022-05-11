@@ -3,7 +3,7 @@
 # Wheels Custom Pack - Addon [FIVEM READY]
 
 ## ENGLISH ⬇️
-Wheels Custom Pack + Fix Null in esx_lscustom
+### Wheels Custom Pack + Fix Null in esx_lscustom
 
 ⬇️Tutorial for the less experienced⬇️
 
@@ -28,9 +28,10 @@ The other "CHANGE" is the name, so let's add for example "Drift Benz 06" and it 
 AddTextEntryByHash(GetHashKey("wheel_drft_benz_06"), "Drift Benz 06")	
 ```
 And with that, it should work :3
+### IMPORTANT: do not put a comma after to go to the next. it won't work like that
 
 ## SPANISH ⬇️
-Pack de llantas Custom + Fix Null en esx_lscustom
+### Pack de llantas Custom + Fix Null en esx_lscustom
 
 ⬇️Tutorial para los menos experimentados⬇️
 
@@ -54,6 +55,8 @@ El otro "CAMBIAR" es el nombre, así que vamos a añadir por ejemplo "Drift Benz
 AddTextEntryByHash(GetHashKey("wheel_drft_benz_06"), "Drift Benz 06")	
 ```
 Y con eso, ya debería funcionar :3
+### IMPORTANTE: no poner una coma despues para ir al siguiente. Así no funcionará
+
 
 # Link original:
 https://es.gta5-mods.com/vehicles/wheels-custom-pack-ganjahouse
