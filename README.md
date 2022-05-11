@@ -30,6 +30,7 @@ AddTextEntryByHash(GetHashKey("wheel_drft_benz_06"), "Drift Benz 06")
 ```
 And with that, it should work :3
 ### IMPORTANT: do not put a comma after to go to the next. it won't work like that
+![Esta es una imagen](https://media.discordapp.net/attachments/973516122349531136/973516156033966080/unknown.png?width=886&height=286)
 </details>
 
 ## SPANISH ⬇️
@@ -60,6 +61,7 @@ AddTextEntryByHash(GetHashKey("wheel_drft_benz_06"), "Drift Benz 06")
 ```
 Y con eso, ya debería funcionar :3
 ### IMPORTANTE: no poner una coma despues para ir al siguiente. Así no funcionará
+![Esta es una imagen](https://media.discordapp.net/attachments/973516122349531136/973516156033966080/unknown.png?width=886&height=286)
 </details>
 
 # Link original:
