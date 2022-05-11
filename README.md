@@ -6,7 +6,8 @@
 ### Wheels Custom Pack + Fix Null in esx_lscustom
 
 ⬇️Tutorial for the less experienced⬇️
-
+<details>
+  <summary><h1>TUTORIAL</h1></summary>
 Client ▶️ tuning.lua
 
 When we enter tuning.lua we will find this:
@@ -29,11 +30,14 @@ AddTextEntryByHash(GetHashKey("wheel_drft_benz_06"), "Drift Benz 06")
 ```
 And with that, it should work :3
 ### IMPORTANT: do not put a comma after to go to the next. it won't work like that
+</details>
 
 ## SPANISH ⬇️
 ### Pack de llantas Custom + Fix Null en esx_lscustom
 
-⬇️Tutorial para los menos experimentados⬇️
+⬇️Tutorial para los que no tienen experiencia⬇️
+<details>
+  <summary><h1>TUTORIAL</h1></summary>
 
 Client ▶️ tuning.lua
 
@@ -56,7 +60,7 @@ AddTextEntryByHash(GetHashKey("wheel_drft_benz_06"), "Drift Benz 06")
 ```
 Y con eso, ya debería funcionar :3
 ### IMPORTANTE: no poner una coma despues para ir al siguiente. Así no funcionará
-
+</details>
 
 # Link original:
 https://es.gta5-mods.com/vehicles/wheels-custom-pack-ganjahouse
